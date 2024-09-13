@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vatores", "Vatores.csproj", "{CF91A3D3-1268-4FF5-9AA0-E0BB69F00772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF91A3D3-1268-4FF5-9AA0-E0BB69F00772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF91A3D3-1268-4FF5-9AA0-E0BB69F00772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF91A3D3-1268-4FF5-9AA0-E0BB69F00772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF91A3D3-1268-4FF5-9AA0-E0BB69F00772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDC9603-9494-4121-8F30-D43E092AD2B7}
+	EndGlobalSection
+EndGlobal
