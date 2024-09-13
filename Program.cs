@@ -35,6 +35,7 @@ namespace Vatores
             {
                 Console.WriteLine($"{nomes[i]} tem {idades[i]} anos.");
             }
+            Console.WriteLine("TMJ");
         }
     }
 }
