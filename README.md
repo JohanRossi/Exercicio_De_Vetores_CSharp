@@ -2,4 +2,4 @@
 
 ## Curso de C# Senai
 
-Utilizando vetores no C# fizemos uma programação basica de validação de nomes e idades.
+Utilizando vetores no C#, fizemos uma programação basica de validação de nomes e idades.
